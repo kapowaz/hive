@@ -1,0 +1,42 @@
+// items with an x are complete/in some sort of live state
+
+Home
+- Connect via web client
+
+About
+- FAQ
+x Staffless
+x Connecting
+  - Web Client
+x Features
+- Etiquette
+- Glossary
+
+Community
+x Conferences
+- Users
+  - Personal Information
+- Groups
+  - Members
+  - Recent Conversation
+  - Topic History
+  - Information
+  - Forum
+- Forums
+  - All Groups
+  
+Help
+- Browse topics
+- Search for help
+  
+Development
+- About/Features
+x Source
+x Ideas (fix!)
+x Bugs (fix!)
+- Task List (?)
+x Change Log
+- Forthcoming Features
+x Releases
+- Documentation
+

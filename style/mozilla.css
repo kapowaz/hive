@@ -1,0 +1,7 @@
+/*
+	only loaded for Mozilla, to improve the appearance of selected items
+*/
+
+:focus { -moz-outline:none; }
+:focus img { -moz-outline:none; }
+:active { -moz-outline:none; }

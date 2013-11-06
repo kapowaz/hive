@@ -1,0 +1,54 @@
+/* advanced styles for Mozilla, IE and Opera */
+
+body, th, td, p { font-family:verdana,clean,geneva,arial,helvetica,sans-serif; font-size:11px; }
+
+a { color:#19541C; text-decoration:none; border-bottom:1px solid #73AE76; }
+a:hover { border-bottom:1px solid #19541C; }
+a.noborder { border:none; }
+a.noborder:hover { border:none; }
+a img { border:none; }
+
+h2 { font-size:20px; margin-top:10px; margin-bottom:10px; clear:left; }
+h3 { font-size:12px; }
+h4 { font-size:11px; }
+
+p img { vertical-align:middle; }
+
+code,pre { font-family:andale mono, lucida console, monospace; font-size:11px; color:#19541C; background-color:#E1F4E1; padding:1px; }
+pre.source { font-size:10px; }
+pre.source span.ln { border:1px solid #7DA47E; margin-right:2px; border-top:none; border-bottom:none; padding-right:2px; padding-left:2px; }
+
+li { clear:left; }
+
+ol#whyhive li h4 { margin:0; margin-top:5px; margin-bottom:5px; }
+ol#whyhive li p { margin:0; }
+
+ul li { margin-top:2px; margin-bottom:2px; }
+
+ul#emoticonscoltwo { position:absolute; top:200px; }
+ul#emoticonscolone li { line-height:13px; font-size:9px; }
+ul#emoticonscolone li span { font-family:andale mono, lucida sans, monaco, monospace; font-size:11px; padding:1px; border:1px solid #73AE76; background-color:#CCFFCE; }
+ul#emoticonscoltwo { position:absolute; top:200px; left:200px; }
+ul#emoticonscoltwo li { line-height:13px; font-size:9px; }
+ul#emoticonscoltwo li span { font-family:andale mono, lucida sans, monaco, monospace; font-size:11px; padding:1px; border:1px solid #73AE76; background-color:#CCFFCE; }
+
+img.caption { float:left; margin-right:10px; margin-bottom:10px; }
+
+.small { font-size:9px; }
+
+.w3c { width:100%; text-align:right; margin-top:40px; margin-bottom:0; }
+.w3c a { border:none; padding:0; }
+.w3c a img { margin-right:10px; background-color:#40904B; }
+.w3c a:hover img { margin-right:10px; background-color:#78B37B; }
+
+#main { width:600px; background-color:#f3fff3; padding-bottom:30px; margin-left:10px; vertical-align:top; text-align:justify; }
+
+#globallinks { width:100%; text-align:right; padding-top:4px; padding-bottom:4px; font-family:verdana,clean,geneva,arial,helvetica,sans-serif; font-size:9px; }
+#globallinks a { padding:2px; border:1px solid #F3FFF4; color:#19541C; text-decoration:none; }
+#globallinks a:hover { padding:2px; border:1px solid #73AE76; background-color:#CCFFCE; }
+
+#sectionlinks { width:100%; text-align:right; padding-top:4px; padding-bottom:4px; font-family:verdana,clean,geneva,arial,helvetica,sans-serif; font-size:9px; }
+#sectionlinks a { padding:2px; border:1px solid #F3FFF4; color:#19541C; text-decoration:none; }
+#sectionlinks a:hover { padding:2px; border:1px solid #73AE76; background-color:#CCFFCE; }
+
+#talkerstatus { font-size:9px; position:absolute; top:107px; left:15px; }
